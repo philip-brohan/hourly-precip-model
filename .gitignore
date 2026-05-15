@@ -203,6 +203,12 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Project-specific: large data, model binaries, figures, and logs
+data/
+models/
+figures/
+logs/
+
 # Ruff stuff:
 .ruff_cache/
 

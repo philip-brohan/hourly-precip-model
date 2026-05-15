@@ -1,0 +1,17 @@
+name: precip-xgb
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - xarray
+  - netcdf4
+  - h5py
+  - xgboost
+  - scikit-learn
+  - matplotlib
+  - cartopy
+  - pyarrow
+  - tqdm
+  - pip
